@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Brunettoz/presente",
+  "homepage": "https://brunettoz.github.io/presente/",
 
   "scripts": {
     "predeploy": "npm run build",
